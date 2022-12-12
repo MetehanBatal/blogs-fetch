@@ -1,6 +1,6 @@
 <script context="module">
 	export async function load() {
-		const blogsFetch = await fetch('http://localhost:5173/api/car-racing.json');
+		const blogsFetch = await fetch('http://localhost:5173/api/car-racing.json.js');
 		const blogs = await blogsFetch.json();
 
 		return {
