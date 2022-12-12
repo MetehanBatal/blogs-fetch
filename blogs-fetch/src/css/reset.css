@@ -1,0 +1,48 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+}
+
+html, body {
+	font-size: 62.5%;
+}
+
+body {
+	font-family: 'Inter', sans-serif;
+	font-size: 1.6rem;
+	letter-spacing: -.001rem;
+}
+
+button {
+	border: none;
+	background-color: initial;
+	padding: 0;
+	cursor: pointer;
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+}
+
+img {
+	/* removes 4px gap at the bottom of the image
+	   display: block would also fix the issue */
+	vertical-align: bottom;
+
+	max-width: 100%;
+}
+
+ul {
+	padding: 0;
+}
+
+li {
+	list-style-type: none;
+}
+
+input {
+	border: none;
+	background-color: initial;
+	outline: 0;
+}

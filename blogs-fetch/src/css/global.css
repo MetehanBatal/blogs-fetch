@@ -1,0 +1,666 @@
+:root {
+	--primary-color: #F22509;
+	--cta-hover: #B91B06;
+	--gray-color: #757575;
+	--gold-color: #FF9100;
+	--light-gray-color: #BDBDBD;
+
+	/* Toast message */
+	--toastWidth: 24rem;
+	--toastPadding: 1.2rem 1.2rem 1.6rem;
+	--toastContainerTop: 10rem;
+	--toastContainerRight: 4rem;
+}
+
+@keyframes slideProgress {
+	0% { transform: translateX(-100%); }
+	100% { transform: translateX(0); }
+}
+
+.container {
+	max-width: 128rem;
+		width: 100%;
+
+	margin: 0 auto;
+	padding: 5.4rem 1.6rem 0;
+}
+
+.container.pb {
+	padding-bottom: 5.4rem;
+}
+
+.container.psm {
+	padding-top: 4rem;
+	padding-bottom: 4rem;
+}
+
+.max-w-900 {
+	max-width: 900px;
+}
+
+.hidden {
+	display: none!important;
+}
+
+.mobile-hidden {
+	display: none;
+}
+
+.desktop-hidden {
+	display: block;
+}
+
+.overflow-hidden {
+	overflow: hidden;
+}
+
+.menu-opened .menu-items {
+	opacity: 1!important;
+	visibility: visible!important;
+	transform: translateY(0%)!important;
+}
+
+#blayze-app {
+	display: flex;
+	flex-direction: column;
+
+	min-height: 100vh;
+}
+
+header.scrolled {
+	transform: translate3d(0, -100%, 0);
+}
+
+footer {
+	margin-top: auto;
+}
+
+
+/* <Typography> */
+
+.headline-box {
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+}
+
+/* Heading Level 2 - h2 */
+.headline {
+	font-size: 2.4rem;
+	font-weight: 500;
+	letter-spacing: -0.08rem;
+
+	margin-bottom: 3rem;
+}
+
+/* Heading Level 1 - h1 */
+.headline.lg {
+	font-size: 3.2rem;
+
+	margin-bottom: 4.5rem;
+}
+
+/* Heading Level 3 - h3 */
+.headline.md {
+	font-size: 2.4rem;
+}
+
+/* Heading Level 4 - h4 */
+.headline.sm {
+	font-size: 2rem;
+	letter-spacing: -0.03rem;
+
+	margin-bottom: 1.5rem;
+}
+
+.w-background {
+	position: relative;
+
+	width: fit-content;
+
+	padding: 1.2rem 0;
+
+	background-color: var(--primary-color);
+	color: #FFFFFF;
+}
+
+.w-background:before,
+.w-background:after {
+	position: absolute;
+	top: 0;
+
+	width: 1.6rem;
+	height: 100%;
+
+	content: '';
+
+	background-color: var(--primary-color);
+
+	z-index: -1;
+}
+
+.w-background:before {
+	left: 0;
+
+	width: 100vw;
+
+	transform: translateX(-100%);
+}
+
+.w-background:after {
+	right: -1.6rem;
+
+	clip-path: polygon(0 0, 100% 0, 0% 100%, 0% 100%);
+}
+
+p {
+	font-weight: 400;
+	font-size: 1.6rem;
+	line-height: 1.2;
+}
+
+p.lg {
+	font-size: 2rem;
+	line-height: 1.5;
+}
+
+.muted {
+	font-weight: 400;
+	color: var(--gray-color);
+}
+
+figcaption {
+	font-size: 1.8rem;
+	line-height: 1.5;
+
+	margin-top: .6rem;
+
+	color: var(--gray-color);
+}
+
+.text-center {
+	text-align: center;
+}
+
+.capitalize {
+	text-transform: capitalize;
+}
+
+.uppercase {
+	text-transform: uppercase;
+}
+
+/* </Typography> */
+
+/* <Inline Components> */
+
+.hero-section {
+	position: relative;
+
+	padding-top: 6rem;
+
+	background-color: #000000;
+}
+
+.hero-img {
+	position: absolute;
+	top: 0;
+	left: 0;
+
+	width: 100%;
+	/*min-height: 36rem;*/
+	height: 100%;
+
+	object-fit: cover;
+
+	z-index: 0;
+}
+
+.img-overlay {
+	position: absolute;
+	top: 0;
+	left: 0;
+
+	width: 100%;
+	height: 100%;
+
+	background: linear-gradient(200deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%);
+
+	z-index: 1;
+}
+
+.sport.selected {
+	opacity: 1;
+	outline: .4rem solid #000000;
+}
+
+.non-selected {
+	opacity: .5;
+}
+
+.gray-section {
+	background-color: #EEEEEE;
+}
+
+/* </Inline Components> */
+
+
+/* <BUTTONS> */
+
+.cta-button,
+.button {
+	max-width: 36rem;
+	
+	font-family: 'SF Pro Text';
+	font-weight: 500;
+	font-size: 1.4rem;
+	line-height: 2rem;
+	letter-spacing: -0.0024rem;
+	text-transform: uppercase;
+	text-align: center;
+
+	border-radius: 4.8rem;
+
+	transition: background-color .24s ease-in-out;
+
+	cursor: pointer;
+}
+
+.button,
+.transparent-button {
+	padding: 1.4rem 1.6rem;
+}
+
+.transparent-button {
+	border-radius: 4.8rem;
+	
+	transition: background-color .24s ease-in-out;
+}
+
+.transparent-button:hover {
+	background-color: rgba(255, 255, 255, .2);
+}
+
+.cta-button {
+	width: 100%;
+
+	padding: 1.4rem 3.6rem;
+
+	background-color: #000000;
+	color: #ffffff;
+}
+
+.cta-button:hover {
+	background-color: #333;
+}
+
+.cta-button.primary,
+.button.primary {
+	background-color: var(--primary-color);
+	color: #ffffff;
+}
+
+.button.primary:hover,
+.cta-button.primary:hover {
+	background-color: var(--cta-hover);
+}
+
+.button.secondary {
+	background-color: #ffffff;
+	color: #000000;
+
+	border: .1rem solid #000000;
+}
+
+.button.secondary:hover {
+	background-color: #D9D9D9;
+}
+
+.button-sm {
+	font-family: 'SF Pro Text';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 1.4rem;
+	letter-spacing: -0.024rem;
+
+	padding: .7rem 1.2rem;
+
+	background-color: #ffffff;
+	color: #000000;
+	border: 1px solid #000000;
+	border-radius: 2.4rem;
+
+	cursor: pointer;
+}
+
+/* </BUTTONS> */
+
+/* <CARDS> */
+.card-bg {
+	position: absolute;
+	top: 4.8rem;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	
+	background-color: #EEEEEE;
+	border-radius: 1.6rem;
+
+	z-index: -1;
+}
+/* </CARDS> */
+
+
+/* <Testimonials Slider> */
+
+/*.swiper {
+	overflow: hidden;
+}
+
+.swiper-wrapper {
+	display: flex;
+}
+
+.swiper-slide {
+	flex-shrink: 0;
+
+	width: calc(100% - 3.2rem);
+
+	padding: 2.4rem 1.6rem;
+	margin-left: 1.6rem;
+
+	background-color: #ffffff;
+	border-radius: 2.4rem;
+}*/
+
+
+.navigation-buttons {
+	display: grid;
+	grid-template-rows: 1fr;
+	grid-template-columns: 2.4rem 2.4rem;
+	grid-gap: 2.4rem;
+	justify-content: center;
+
+	margin: 2.4rem 0 4rem;
+}
+
+/* </Testimonials Slider> */
+
+/* <Slider Options> */
+.slider-outer-box {
+	display: flex;
+
+	will-change: transform;
+	transition: transform .4s ease-in-out;
+}
+
+.slider {
+	flex-shrink: 0;
+}
+
+.swiper-slide.swiper-slide-active {
+	opacity: 1!important;
+}
+
+.slider-pagination-buttons {
+	display: flex;
+	grid-gap: 2.4rem;
+}
+
+.slider-pagination-buttons .swiper-button-disabled path {
+	fill: #A6A6A6 !important;
+}
+
+.slider-pagination-buttons path {
+	fill: #757575;
+}
+
+.swiper-slide-active .progress-bar:before {
+	background-color: var(--gold-color);
+	-webkit-animation: slideProgress 6.4s cubic-bezier(0.3, 0, 0.3, 1) forwards;
+			animation: slideProgress 6.4s cubic-bezier(0.3, 0, 0.3, 1) forwards;
+}
+
+.swiper-pagination-bullet {
+	background: var(--light-gray-color) !important;
+	opacity: 1 !important;
+}
+
+.swiper-pagination-bullet.swiper-pagination-bullet-active {
+	background: #000000 !important;
+}
+
+.home .swiper-wrapper {
+	grid-gap: 2.4rem;
+}
+/* </Slider Options> */
+
+
+/* <Badges> */
+
+.plan-selection .chip {
+	background-color: #000!important;
+	color: #fff!important;
+}
+
+.plan-selection .button-holder {
+	display: flex;
+	justify-content: center;
+}
+
+.plan-selection .button-holder .button {
+	width: 36rem;
+}
+/* </Badges> */
+
+/* <Tabs> */
+.tab-icon path {
+	fill: var(--light-gray-color);
+}
+
+.active .tab-icon path {
+	fill: var(--gold-color);
+}
+/* </Tabs> */
+
+/* <FAQ> */
+.list-item.is-open .answer {
+	max-height: 60rem;
+	margin-top: 3rem;
+}
+
+.list-item.is-open .dropdown-toggle {
+	background-color: var(--gray-color);
+	transform: rotate(-45deg);
+}
+/* </FAQ> */
+
+/* <Form Items> */
+input {
+	padding: 1.6rem 1.2rem;
+
+	background-color: #ffffff;
+	border-top-right-radius: .4rem;
+	border-top-left-radius: .4rem;
+	border-bottom: .1rem solid var(--light-gray-color);
+}
+/* </Form Items> */
+
+
+/* <Home Overrides> */
+.home-preview-section .container {
+	padding: 0!important;
+}
+/* </Home Overrides> */
+
+.blog-card {
+	cursor: pointer;
+}
+
+.blogs.filtered .blog-card {
+	display: none;
+}
+
+.coaches-page .coach-card {
+	display: none!important;
+}
+
+.blogs.filtered .blog-card:nth-child(1),
+.blogs.filtered .blog-card:nth-child(2),
+.blogs.filtered .blog-card:nth-child(3) {
+	display: flex;
+}
+
+.coaches-page .coach-card:nth-child(1),
+.coaches-page .coach-card:nth-child(2),
+.coaches-page .coach-card:nth-child(3),
+.coaches-box.view-all .coach-card {
+	display: flex!important;
+} 
+
+.blogs.swiper-wrapper .blog-card {
+	display: block;
+}
+
+.blogs.swiper-wrapper {
+	display: block!important;
+}
+
+.all-blogs.hidden .blog-img {
+	display: none;
+}
+
+.related-blogs-box .blog-card {
+	min-width: 24%;
+
+	color: #000;
+}
+
+.related-blogs-box .blog .content {
+	padding: 1.6rem!important;
+}
+
+.related-blogs-box .social-media-icons img {
+	width: 2.4rem;
+}
+
+.related-blogs-box .headline.sm {
+	font-size: 1.6rem!important;
+}
+
+.related-blogs-box .excerpt {
+	display: none!important;
+}
+
+.sport.safari {
+	width: 100%;
+	aspect-ratio: initial!important;
+}
+
+.position-selection .categories {
+    -ms-overflow-style: none;  /* Internet Explorer 10+ */
+    scrollbar-width: none;  /* Firefox */
+}
+.position-selection .categories::-webkit-scrollbar { 
+    display: none;  /* Safari and Chrome */
+}
+
+@media screen and (min-width: 768px) {
+	.mobile-hidden {
+		display: block;
+	}
+
+	.desktop-hidden {
+		display: none;
+	}
+
+	.hero-section {
+		padding-top: 7.2rem;
+	}
+
+	.hero-img {
+		top: 7.2rem;
+		height: calc(100% - 7.2rem);
+	}
+
+	.container {
+		padding: 8rem 6.4rem 0;
+	}
+
+	.container.pb {
+		padding-bottom: 8rem;
+	}
+
+	.headline {
+		font-size: 3rem;
+	}
+
+	.headline.lg {
+		font-size: 4.8rem;
+		font-weight: 500;
+		line-height: 6.2rem;
+	}
+
+	.w-background {
+		padding-right: 3.6rem;
+	}
+
+	.w-background:after {
+		right: -3.2rem;
+
+		width: 3.2rem;
+
+		clip-path: polygon(0 0, 100% 0, 0% 100%, 0% 100%);
+	}
+
+	.featured .coach-card {
+		width: calc((100% - 7.2rem) / 4)!important;
+	}
+
+	.home-preview-section .sports-holder {
+		grid-template-columns: repeat(3, 1fr)!important;
+		grid-gap: 1.2rem .8rem!important;
+		grid-auto-flow: unset!important;
+	}
+
+	.searched-blogs-grid .blog,
+	.all-blogs .blog {
+		display: flex!important;
+		flex-direction: column;
+
+		height: 100%;
+	}
+
+	.searched-blogs-grid img,
+	.all-blogs img {
+		height: auto!important;
+	}
+
+	.all-blogs img {
+		border-bottom-left-radius: 0!important;
+		border-bottom-right-radius: 0!important;
+	}
+
+	.searched-blogs-grid .content,
+	.all-blogs .content {
+		flex: 1;
+	}
+
+	.searched-blogs-grid .blog-card > div,
+	.all-blogs .blog-card > div {
+		height: 100%;
+	}
+
+	.related-blogs-box .blog-card {
+		width: 24%;
+	}
+
+	.plan-selection .button-holder {
+		grid-area: 2/1/2/3;
+	}
+
+}
+
+@media screen and (min-width: 1280px) {
+
+}

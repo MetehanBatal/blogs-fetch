@@ -1,0 +1,2304 @@
+{
+	"redirects": [
+		{
+			"source": "/lp/nasa-champs",
+			"destination": "/lp/nasa-championships",
+			"statusCode": 301
+		},
+		{
+			"source": "/lp/racers-lounge",
+			"destination": "/car-racing/pricing",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/benefits-of-one-on-one-coaching",
+			"destination": "/blog/general/benefits-of-one-on-one-coaching",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/3-drills-to-improve-first-touch-soccer",
+			"destination": "/blog/soccer/3-drills-to-improve-first-touch-soccer",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/3-drills-to-improve-your-crossing-into-the-box",
+			"destination": "/blog/soccer/3-drills-to-improve-your-crossing-into-the-box",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/3-drills-to-improve-your-dribbling-skills",
+			"destination": "/blog/soccer/3-drills-to-improve-your-dribbling-skills",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/3-elements-for-strong-1-on-1-defending",
+			"destination": "/blog/soccer/3-elements-for-strong-1-on-1-defending",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/3-principles-of-a-counter-attack-in-soccer",
+			"destination": "/blog/soccer/3-principles-of-a-counter-attack-in-soccer",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/5-drills-for-karting",
+			"destination": "/blog/karting/5-drills-for-karting",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/5-drills-to-improve-shooting-accuracy",
+			"destination": "/blog/soccer/5-drills-to-improve-shooting-accuracy",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/5-reasons-you-spin-blayze-call",
+			"destination": "/blog/karting/5-reasons-you-spin-blayze-call",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/5-reference-points-for-every-corner-on-the-race-track",
+			"destination": "/blog/motorcycle/5-reference-points-for-every-corner-on-the-race-track",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/10-drills-to-prep-for-spring-soccer-tryouts",
+			"destination": "/blog/soccer/10-drills-to-prep-for-spring-soccer-tryouts",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/10-track-day-essentials",
+			"destination": "/blog/car-racing/10-track-day-essentials",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/60-second-soccer-skills-double-scissor",
+			"destination": "/blog/soccer/60-second-soccer-skills-double-scissor",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/60-second-soccer-skills-first-touch",
+			"destination": "/blog/soccer/60-second-soccer-skills-first-touch",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/16000-laps-with-no-crashes",
+			"destination": "/blog/car-racing/16000-laps-with-no-crashes",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/adjusting-to-a-low-grip-track-newsletter-5",
+			"destination": "/blog/motorcycle/adjusting-to-a-low-grip-track-newsletter-5",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/adjusting-your-riding-for-different-sized-motorcycles",
+			"destination": "/blog/motorcycle/adjusting-your-riding-for-different-sized-motorcycles",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/anglesey-circuit-quick-coach-notes",
+			"destination": "/blog/motorcycle/anglesey-circuit-quick-coach-notes",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/are-my-eyes-up-on-the-race-track",
+			"destination": "/blog/car-racing/are-my-eyes-up-on-the-race-track",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/are-you-ready-for-coaching",
+			"destination": "/blog/car-racing/are-you-ready-for-coaching",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/athletic-development-planner-pt-1",
+			"destination": "/blog/soccer/athletic-development-planner-pt-1",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/athletic-development-planner-pt-2",
+			"destination": "/blog/soccer/athletic-development-planner-pt-2",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/athletic-development-planner-pt-3",
+			"destination": "/blog/soccer/athletic-development-planner-pt-3",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/atlanta-motorsports-park-approved-onboard-videos",
+			"destination": "/blog/car-racing/atlanta-motorsports-park-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/auto-club-speedway-the-official-race-track-guide",
+			"destination": "/blog/car-racing/auto-club-speedway-the-official-race-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/autobahn-country-club-approved-onboard-videos",
+			"destination": "/blog/car-racing/autobahn-country-club-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/autobahn-country-club-full-course-track-guide",
+			"destination": "/blog/car-racing/autobahn-country-club-full-course-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/autobahn-country-club-south-course-track-guide",
+			"destination": "/blog/car-racing/autobahn-country-club-south-course-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/avoid-generic-soccer-drills-individualized-soccer-training",
+			"destination": "/blog/soccer/avoid-generic-soccer-drills-individualized-soccer-training",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/barber-motorsports-park-approved-onboard-videos",
+			"destination": "/blog/car-racing/barber-motorsports-park-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/barber-motorsports-park-the-official-race-track-guide",
+			"destination": "/blog/motorcycle/barber-motorsports-park-the-official-race-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/basketball-faq",
+			"destination": "/blog/basketball/basketball-faq",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/be-complete-driver",
+			"destination": "/blog/car-racing/be-complete-driver",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/become-a-better-central-defender-newsletter",
+			"destination": "/blog/soccer/become-a-better-central-defender-newsletter",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/blayze-sample-soccer-coaching-session",
+			"destination": "/blog/soccer/blayze-sample-soccer-coaching-session",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/blayze-scca-driver-education-partnership-announcement",
+			"destination": "/blog/car-racing/blayze-scca-driver-education-partnership-announcement",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/blayze-sup-coaching-session-preview",
+			"destination": "/blog/sup/blayze-sup-coaching-session-preview",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/brainerd-international-raceway-approved-onboard-videos",
+			"destination": "/blog/car-racing/brainerd-international-raceway-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/brainerd-international-raceway-track-guide",
+			"destination": "/blog/car-racing/brainerd-international-raceway-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/braking-course",
+			"destination": "/blog/car-racing/braking-course",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/braking-fundamentals-recording",
+			"destination": "/blog/car-racing/braking-fundamentals-recording",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/braking-later-on-the-race-track-newsletter-6",
+			"destination": "/blog/car-racing/braking-later-on-the-race-track-newsletter-6",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/building-high-speed-corner-confidence-newsletter",
+			"destination": "/blog/car-racing/building-high-speed-corner-confidence-newsletter",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/building-out-of-the-back-in-soccer-games",
+			"destination": "/blog/soccer/building-out-of-the-back-in-soccer-games",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/buttonwillow-cw-raceway-the-official-race-track-guide-motorcycle",
+			"destination": "/blog/motorcycle/buttonwillow-cw-raceway-the-official-race-track-guide-motorcycle",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/buttonwillow-mazda-mx5-track-guide",
+			"destination": "/blog/car-racing/buttonwillow-mazda-mx5-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/buttonwillow-raceway-motorcycle-approved-onboards",
+			"destination": "/blog/motorcycle/buttonwillow-raceway-motorcycle-approved-onboards",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/buttonwillow-raceway-park-approved-onboard-videos",
+			"destination": "/blog/car-racing/buttonwillow-raceway-park-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/buttonwillow-raceway-park-ccw-full-course-track-guide",
+			"destination": "/blog/car-racing/buttonwillow-raceway-park-ccw-full-course-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/buttonwillow-raceway-park-cw-full-course-track-guide",
+			"destination": "/blog/motorcycle/buttonwillow-raceway-park-cw-full-course-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/cadwell-park-motorcycle-approved-onboards",
+			"destination": "/blog/motorcycle/cadwell-park-motorcycle-approved-onboards",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/calm-your-nerves-before-your-soccer-game",
+			"destination": "/blog/soccer/calm-your-nerves-before-your-soccer-game",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/car-control",
+			"destination": "/blog/car-racing/car-control",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/car-racing-faq",
+			"destination": "/blog/car-racing/car-racing-faq",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/carolina-motorsports-park-approved-onboard-videos",
+			"destination": "/blog/car-racing/carolina-motorsports-park-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/carolina-motorsports-park-the-official-race-track-guide",
+			"destination": "/blog/car-racing/carolina-motorsports-park-the-official-race-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/championship-mentality-in-karting",
+			"destination": "/blog/karting/championship-mentality-in-karting",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/charlotte-roval-the-official-racetrack-guide",
+			"destination": "/blog/car-racing/charlotte-roval-the-official-racetrack-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/choosing-the-right-soccer-cleats",
+			"destination": "/blog/soccer/choosing-the-right-soccer-cleats",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/chuckwalla-raceway-motorcycle-approved-onboards",
+			"destination": "/blog/motorcycle/chuckwalla-raceway-motorcycle-approved-onboards",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/chuckwalla-valley-raceway-approved-onboard-videos",
+			"destination": "/blog/car-racing/chuckwalla-valley-raceway-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/chuckwalla-valley-raceway-the-official-race-track-guide",
+			"destination": "/blog/car-racing/chuckwalla-valley-raceway-the-official-race-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/circuit-of-the-americas-approved-onboard-videos",
+			"destination": "/blog/car-racing/circuit-of-the-americas-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/circuit-of-the-americas-mazda-mx5-track-guide",
+			"destination": "/blog/car-racing/circuit-of-the-americas-mazda-mx5-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/circuit-of-the-americas-track-guide",
+			"destination": "/blog/car-racing/circuit-of-the-americas-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/circuito-estoril-track-guide",
+			"destination": "/blog/car-racing/circuito-estoril-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/coaching-a-racecar-driver-champion",
+			"destination": "/blog/car-racing/coaching-a-racecar-driver-champion",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/coaching-for-beginner-racecar-drivers",
+			"destination": "/blog/car-racing/coaching-for-beginner-racecar-drivers",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/colin-mullan-advanced-data-analysis-blayze-call",
+			"destination": "/blog/car-racing/colin-mullan-advanced-data-analysis-blayze-call",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/colin-mullan-april-22-blayze-call",
+			"destination": "/blog/car-racing/colin-mullan-april-22-blayze-call",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/colin-mullan-may-22-blayze-call",
+			"destination": "/blog/car-racing/colin-mullan-may-22-blayze-call",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/communicate-your-setup",
+			"destination": "/blog/karting/communicate-your-setup",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/complex-corners",
+			"destination": "/blog/car-racing/complex-corners",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/confidence-with-ten-tenths-podcast",
+			"destination": "/blog/car-racing/confidence-with-ten-tenths-podcast",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/consistency-on-the-race-track",
+			"destination": "/blog/motorcycle/consistency-on-the-race-track",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/consistent-racecar-driver-mistakes",
+			"destination": "/blog/car-racing/consistent-racecar-driver-mistakes",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/cornering",
+			"destination": "/blog/car-racing/cornering",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/correct-hand-position-for-racecar-drivers",
+			"destination": "/blog/car-racing/correct-hand-position-for-racecar-drivers",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/cowboy-exits-small-lifts-at-corner-exit",
+			"destination": "/blog/car-racing/cowboy-exits-small-lifts-at-corner-exit",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/create-your-game-day-routine",
+			"destination": "/blog/car-racing/create-your-game-day-routine",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/data-analysis-sample",
+			"destination": "/blog/car-racing/data-analysis-sample",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/data-review-at-road-atlanta",
+			"destination": "/blog/car-racing/data-review-at-road-atlanta",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/daytona-international-speedway-approved-onboard-videos",
+			"destination": "/blog/car-racing/daytona-international-speedway-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/daytona-international-speedway-kart-track-guide",
+			"destination": "/blog/karting/daytona-international-speedway-kart-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/daytona-international-speedway-track-guide",
+			"destination": "/blog/car-racing/daytona-international-speedway-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/developing-feel-on-the-race-track",
+			"destination": "/blog/car-racing/developing-feel-on-the-race-track",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/developing-movement-off-the-ball-for-soccer-players",
+			"destination": "/blog/soccer/developing-movement-off-the-ball-for-soccer-players",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/different-braking-techniques",
+			"destination": "/blog/car-racing/different-braking-techniques",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/dion-von-moltke-august-call",
+			"destination": "/blog/car-racing/dion-von-moltke-august-call",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/dion-von-moltke-blayze-april-22-call",
+			"destination": "/blog/car-racing/dion-von-moltke-blayze-april-22-call",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/dion-von-moltke-blayze-december-21-call",
+			"destination": "/blog/car-racing/dion-von-moltke-blayze-december-21-call",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/dion-von-moltke-blayze-february-22-call",
+			"destination": "/blog/car-racing/dion-von-moltke-blayze-february-22-call",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/dion-von-moltke-blayze-january-22-call",
+			"destination": "/blog/car-racing/dion-von-moltke-blayze-january-22-call",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/dion-von-moltke-blayze-june-22-call",
+			"destination": "/blog/car-racing/dion-von-moltke-blayze-june-22-call",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/dion-von-moltke-blayze-march-22-call",
+			"destination": "/blog/car-racing/dion-von-moltke-blayze-march-22-call",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/dion-von-moltke-blayze-november-call",
+			"destination": "/blog/car-racing/dion-von-moltke-blayze-november-call",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/dion-von-moltke-october-call",
+			"destination": "/blog/car-racing/dion-von-moltke-october-call",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/dion-von-moltke-september-call",
+			"destination": "/blog/car-racing/dion-von-moltke-september-call",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/do-late-apexes-need-a-late-turn-in",
+			"destination": "/blog/karting/do-late-apexes-need-a-late-turn-in",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/do-you-always-need-to-be-on-the-brakes",
+			"destination": "/blog/car-racing/do-you-always-need-to-be-on-the-brakes",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/does-an-earlier-throttle-mean-a-better-corner-exit",
+			"destination": "/blog/car-racing/does-an-earlier-throttle-mean-a-better-corner-exit",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/dominating-turn17-at-sebring-international-raceway",
+			"destination": "/blog/car-racing/dominating-turn17-at-sebring-international-raceway",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/dominion-raceway-approved-onboard-videos",
+			"destination": "/blog/car-racing/dominion-raceway-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/dominion-raceway-the-official-racetrack-guide",
+			"destination": "/blog/car-racing/dominion-raceway-the-official-racetrack-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/donington-park-motorcycle-approved-onboards",
+			"destination": "/blog/motorcycle/donington-park-motorcycle-approved-onboards",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/donington-park-quick-coach-notes",
+			"destination": "/blog/motorcycle/donington-park-quick-coach-notes",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/driving-on-bankings",
+			"destination": "/blog/car-racing/driving-on-bankings",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/driving-on-the-limit",
+			"destination": "/blog/car-racing/driving-on-the-limit",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/driving-vs-racing-on-a-track",
+			"destination": "/blog/car-racing/driving-vs-racing-on-a-track",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/eagles-canyon-raceway-approved-onboard-videos",
+			"destination": "/blog/car-racing/eagles-canyon-raceway-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/entry-or-exit-speed-corners",
+			"destination": "/blog/car-racing/entry-or-exit-speed-corners",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/eye-training-drills-for-motorsport-athletes",
+			"destination": "/blog/car-racing/eye-training-drills-for-motorsport-athletes",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/feedback-loop",
+			"destination": "/blog/motorcycle/feedback-loop",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/feeling-during-brake-release-newsletter-1",
+			"destination": "/blog/karting/feeling-during-brake-release-newsletter-1",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/feeling-grip-on-a-wet-race-track-newsletter-6",
+			"destination": "/blog/motorcycle/feeling-grip-on-a-wet-race-track-newsletter-6",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/find-limit-blayze-call",
+			"destination": "/blog/motorcycle/find-limit-blayze-call",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/finding-the-limit",
+			"destination": "/blog/car-racing/finding-the-limit",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/finding-your-driving-style",
+			"destination": "/blog/karting/finding-your-driving-style",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/five-things-I-wish-I-knew-earlier-in-my-karting-career",
+			"destination": "/blog/karting/five-things-I-wish-I-knew-earlier-in-my-karting-career",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/fontana-raceway-approved-onboard-videos",
+			"destination": "/blog/car-racing/fontana-raceway-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/four-tips-for-leading-a-race",
+			"destination": "/blog/car-racing/four-tips-for-leading-a-race",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/fundamentals",
+			"destination": "/blog/car-racing/fundamentals",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/game-day-weekly-prep-work",
+			"destination": "/blog/soccer/game-day-weekly-prep-work",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/getting-lost-in-a-corner-newsletter-2",
+			"destination": "/blog/car-racing/getting-lost-in-a-corner-newsletter-2",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/getting-under-the-rubber",
+			"destination": "/blog/karting/getting-under-the-rubber",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/gingerman-raceway-approved-onboard-videos",
+			"destination": "/blog/car-racing/gingerman-raceway-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/gingerman-raceway-track-guide",
+			"destination": "/blog/car-racing/gingerman-raceway-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/go-faster-on-the-racetrack-by-spending-less-time-on-throttle",
+			"destination": "/blog/car-racing/go-faster-on-the-racetrack-by-spending-less-time-on-throttle",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/great-soccer-drill-for-attackers",
+			"destination": "/blog/soccer/great-soccer-drill-for-attackers",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/hallett-motorsports-park-approved-onboard-videos",
+			"destination": "/blog/car-racing/hallett-motorsports-park-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/hallett-motorsports-park-track-guide",
+			"destination": "/blog/car-racing/hallett-motorsports-park-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/hand-position-can-prevent-a-crash",
+			"destination": "/blog/car-racing/hand-position-can-prevent-a-crash",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/handling-oversteer-like-a-professional-racecar-driver",
+			"destination": "/blog/car-racing/handling-oversteer-like-a-professional-racecar-driver",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/harris-hill-road-approved-onboard-videos",
+			"destination": "/blog/car-racing/harris-hill-road-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/hastings-motorsports-park-approved-onboard-videos",
+			"destination": "/blog/car-racing/hastings-motorsports-park-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/heartland-motorsports-park-approved-onboard-videos",
+			"destination": "/blog/car-racing/heartland-motorsports-park-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/heartland-motorsports-park-track-guide",
+			"destination": "/blog/car-racing/heartland-motorsports-park-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/heel-and-toe-downshifting",
+			"destination": "/blog/car-racing/heel-and-toe-downshifting",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/heel-toe-downshifting-in-under-60-seconds",
+			"destination": "/blog/car-racing/heel-toe-downshifting-in-under-60-seconds",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/high-plains-raceway-track-guide",
+			"destination": "/blog/car-racing/high-plains-raceway-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/high-speed-corners",
+			"destination": "/blog/car-racing/high-speed-corners",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/hogpen-at-vir",
+			"destination": "/blog/car-racing/hogpen-at-vir",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/homestead-speedway-approved-onboard-videos",
+			"destination": "/blog/car-racing/homestead-speedway-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/homestead-speedway-banking-race-track-guide",
+			"destination": "/blog/car-racing/homestead-speedway-banking-race-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/homestead-speedway-kart-track-guide",
+			"destination": "/blog/karting/homestead-speedway-kart-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/how-blayze-took-10-seconds-off-of-drivers-laptimes-in-one-weekend",
+			"destination": "/blog/car-racing/how-blayze-took-10-seconds-off-of-drivers-laptimes-in-one-weekend",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/how-drivers-can-fix-understeer",
+			"destination": "/blog/car-racing/how-drivers-can-fix-understeer",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/how-I-use-blayze-ben",
+			"destination": "/blog/car-racing/how-I-use-blayze-ben",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/how-professional-racecar-drivers-use-data",
+			"destination": "/blog/motorcycle/how-professional-racecar-drivers-use-data",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/how-real-is-sim-racing",
+			"destination": "/blog/car-racing/how-real-is-sim-racing",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/how-to-apply-the-throttle-correctly-on-the-race-track",
+			"destination": "/blog/car-racing/how-to-apply-the-throttle-correctly-on-the-race-track",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/how-to-approach-working-on-racecar-setup",
+			"destination": "/blog/car-racing/how-to-approach-working-on-racecar-setup",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/how-to-become-a-better-central-midfielder-on-the-soccer-field-newsletter",
+			"destination": "/blog/soccer/how-to-become-a-better-central-midfielder-on-the-soccer-field-newsletter",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/how-to-become-a-better-striker-on-the-soccer-field-newsletter",
+			"destination": "/blog/soccer/how-to-become-a-better-striker-on-the-soccer-field-newsletter",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/how-to-become-a-better-winger-on-the-soccer-field-newsletter",
+			"destination": "/blog/soccer/how-to-become-a-better-winger-on-the-soccer-field-newsletter",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/how-to-break-the-lines-to-create-goal-scoring-opportunities-on-the-soccer-field",
+			"destination": "/blog/soccer/how-to-break-the-lines-to-create-goal-scoring-opportunities-on-the-soccer-field",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/how-to-control-oversteer",
+			"destination": "/blog/car-racing/how-to-control-oversteer",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/how-to-control-your-emotions-in-and-out-of-the-racecar",
+			"destination": "/blog/car-racing/how-to-control-your-emotions-in-and-out-of-the-racecar",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/how-to-determine-what-gear-to-use",
+			"destination": "/blog/car-racing/how-to-determine-what-gear-to-use",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/how-to-drive-on-different-tire-compounds",
+			"destination": "/blog/car-racing/how-to-drive-on-different-tire-compounds",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/how-to-feel-the-kart",
+			"destination": "/blog/karting/how-to-feel-the-kart",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/how-to-find-sponsorship",
+			"destination": "/blog/karting/how-to-find-sponsorship",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/how-to-get-started-in-racing",
+			"destination": "/blog/karting/how-to-get-started-in-racing",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/how-to-get-started-playing-soccer",
+			"destination": "/blog/soccer/how-to-get-started-playing-soccer",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/how-to-get-started-racing-go-karts",
+			"destination": "/blog/karting/how-to-get-started-racing-go-karts",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/how-to-improve-communication-for-soccer-players",
+			"destination": "/blog/soccer/how-to-improve-communication-for-soccer-players",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/how-to-improve-this-offseason",
+			"destination": "/blog/car-racing/how-to-improve-this-offseason",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/how-to-improve-your-corner-entries-motorcycle",
+			"destination": "/blog/motorcycle/how-to-improve-your-corner-entries-motorcycle",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/how-to-improve-your-vision-for-motorsports",
+			"destination": "/blog/karting/how-to-improve-your-vision-for-motorsports",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/how-to-learn-a-race-track-part-1",
+			"destination": "/blog/car-racing/how-to-learn-a-race-track-part-1",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/how-to-learn-a-race-track-part-2",
+			"destination": "/blog/car-racing/how-to-learn-a-race-track-part-2",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/how-to-learn-a-race-track-webinar-recording",
+			"destination": "/blog/car-racing/how-to-learn-a-race-track-webinar-recording",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/how-to-not-suck-at-watkins-glens-busstop",
+			"destination": "/blog/car-racing/how-to-not-suck-at-watkins-glens-busstop",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/how-to-overtake-like-lewis-hamilton",
+			"destination": "/blog/car-racing/how-to-overtake-like-lewis-hamilton",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/how-to-play-on-different-surfaces",
+			"destination": "/blog/soccer/how-to-play-on-different-surfaces",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/how-to-prepare-your-mind-to-play-at-peak-performance",
+			"destination": "/blog/soccer/how-to-prepare-your-mind-to-play-at-peak-performance",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/how-to-read-racecar-data",
+			"destination": "/blog/car-racing/how-to-read-racecar-data",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/how-to-reduce-incidents-in-grassroots-racing",
+			"destination": "/blog/car-racing/how-to-reduce-incidents-in-grassroots-racing",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/how-to-setup-a-go-kart-axles",
+			"destination": "/blog/karting/how-to-setup-a-go-kart-axles",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/how-to-take-better-penalty-kicks-soccer-field-newsletter",
+			"destination": "/blog/soccer/how-to-take-better-penalty-kicks-soccer-field-newsletter",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/how-to-train-your-mind-for-motorsports",
+			"destination": "/blog/karting/how-to-train-your-mind-for-motorsports",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/how-to-use-sim-racing-to-improve-on-the-racetrack-in-real-life",
+			"destination": "/blog/car-racing/how-to-use-sim-racing-to-improve-on-the-racetrack-in-real-life",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/importance-of-team-practice-for-soccer-players",
+			"destination": "/blog/soccer/importance-of-team-practice-for-soccer-players",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/improve-your-communication-newsletter",
+			"destination": "/blog/soccer/improve-your-communication-newsletter",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/improve-your-front-side-surfing-by-using-your-paddle-sup",
+			"destination": "/blog/sup/improve-your-front-side-surfing-by-using-your-paddle-sup",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/improve-your-overtaking-webinar",
+			"destination": "/blog/karting/improve-your-overtaking-webinar",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/improve-your-racing-at-night",
+			"destination": "/blog/car-racing/improve-your-racing-at-night",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/improving-excitement-on-the-racetrack",
+			"destination": "/blog/car-racing/improving-excitement-on-the-racetrack",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/incident-analysis",
+			"destination": "/blog/car-racing/incident-analysis",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/indianapolis-motor-speedway-approved-onboard-videos",
+			"destination": "/blog/car-racing/indianapolis-motor-speedway-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/indianapolis-motorspeedway-scca-runoffs-preview",
+			"destination": "/blog/car-racing/indianapolis-motorspeedway-scca-runoffs-preview",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/indianapolis-motorspeedway-track-guide",
+			"destination": "/blog/car-racing/indianapolis-motorspeedway-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/injury-prevention-cool-down-sessions",
+			"destination": "/blog/soccer/injury-prevention-cool-down-sessions",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/injury-prevention-warm-up-sessions",
+			"destination": "/blog/soccer/injury-prevention-warm-up-sessions",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/intro",
+			"destination": "/blog/motorcycle/intro",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/introduction",
+			"destination": "/blog/car-racing/introduction",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/is-left-foot-braking-faster",
+			"destination": "/blog/car-racing/is-left-foot-braking-faster",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/josef-newgarden-indy-track-guide",
+			"destination": "/blog/car-racing/josef-newgarden-indy-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/karting-faq",
+			"destination": "/blog/karting/karting-faq",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/karting-video-coaching-example",
+			"destination": "/blog/karting/karting-video-coaching-example",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/keeping-your-eyes-up-at-corner-exit",
+			"destination": "/blog/karting/keeping-your-eyes-up-at-corner-exit",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/ken-hill-blayze-february-22-reference-points",
+			"destination": "/blog/karting/ken-hill-blayze-february-22-reference-points",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/ken-hill-september-call",
+			"destination": "/blog/motorcycle/ken-hill-september-call",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/laguna-seca-approved-onboard-videos",
+			"destination": "/blog/car-racing/laguna-seca-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/laguna-seca-mazda-mx5-track-guide",
+			"destination": "/blog/car-racing/laguna-seca-mazda-mx5-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/laguna-seca-track-guide",
+			"destination": "/blog/car-racing/laguna-seca-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/learn-to-drive-like-a-professional-racecar-driver",
+			"destination": "/blog/car-racing/learn-to-drive-like-a-professional-racecar-driver",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/learning-front-side-reverse-sup",
+			"destination": "/blog/sup/learning-front-side-reverse-sup",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/learning-the-backside-turn",
+			"destination": "/blog/sup/learning-the-backside-turn",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/learning-the-buoy-turn",
+			"destination": "/blog/sup/learning-the-buoy-turn",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/learning-to-barrel-ride-for-sup",
+			"destination": "/blog/sup/learning-to-barrel-ride-for-sup",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/learning-to-brake-efficiently-on-the-race-track",
+			"destination": "/blog/karting/learning-to-brake-efficiently-on-the-race-track",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/lime-rock-park-the-official-track-guide",
+			"destination": "/blog/car-racing/lime-rock-park-the-official-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/live-coaching-ken-hill-bike-placement",
+			"destination": "/blog/motorcycle/live-coaching-ken-hill-bike-placement",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/live-coaching-mike-edwards-remote-coaching",
+			"destination": "/blog/motorcycle/live-coaching-mike-edwards-remote-coaching",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/live-coaching-with-james-hinchcliffe-road-america",
+			"destination": "/blog/car-racing/live-coaching-with-james-hinchcliffe-road-america",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/live-coaching-with-johnny-o",
+			"destination": "/blog/car-racing/live-coaching-with-johnny-o",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/live-coaching-with-jordan-taylor-07-14",
+			"destination": "/blog/car-racing/live-coaching-with-jordan-taylor-07-14",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/low-hanging-fruit-in-your-data-recording",
+			"destination": "/blog/car-racing/low-hanging-fruit-in-your-data-recording",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/mastering-turns-3through5-at-sebring-international-raceway",
+			"destination": "/blog/car-racing/mastering-turns-3through5-at-sebring-international-raceway",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/max-verstappen-daniel-ricciardo-crash-analysis",
+			"destination": "/blog/car-racing/max-verstappen-daniel-ricciardo-crash-analysis",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/maximizing-power-potential",
+			"destination": "/blog/car-racing/maximizing-power-potential",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/mazda-motorsports-partnership-annoucement",
+			"destination": "/blog/car-racing/mazda-motorsports-partnership-annoucement",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/mazda-spec-mx5-blackhawk-farms-raceway-webinar",
+			"destination": "/blog/car-racing/mazda-spec-mx5-blackhawk-farms-raceway-webinar",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/mazda-spec-mx5-buttonwillow-webinar",
+			"destination": "/blog/car-racing/mazda-spec-mx5-buttonwillow-webinar",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/mazda-spec-mx5-hallett-webinar",
+			"destination": "/blog/car-racing/mazda-spec-mx5-hallett-webinar",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/mazda-spec-mx5-high-plains-raceway",
+			"destination": "/blog/car-racing/mazda-spec-mx5-high-plains-raceway",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/mazda-spec-mx5-laguna-seca-webinar",
+			"destination": "/blog/car-racing/mazda-spec-mx5-laguna-seca-webinar",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/mazda-spec-mx5-lime-rock-park-webinar",
+			"destination": "/blog/car-racing/mazda-spec-mx5-lime-rock-park-webinar",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/mazda-spec-mx5-mid-ohio",
+			"destination": "/blog/car-racing/mazda-spec-mx5-mid-ohio",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/mazda-spec-mx5-pueblo-webinar",
+			"destination": "/blog/car-racing/mazda-spec-mx5-pueblo-webinar",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/mazda-spec-mx5-road-america",
+			"destination": "/blog/car-racing/mazda-spec-mx5-road-america",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/mazda-spec-mx5-sebring-international-raceway",
+			"destination": "/blog/car-racing/mazda-spec-mx5-sebring-international-raceway",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/mazda-spec-mx5-sonoma-raceway-webinar",
+			"destination": "/blog/car-racing/mazda-spec-mx5-sonoma-raceway-webinar",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/mazda-spec-mx5-summit-point-webinar",
+			"destination": "/blog/car-racing/mazda-spec-mx5-summit-point-webinar",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/mazda-spec-mx5-thunderhill-raceway",
+			"destination": "/blog/car-racing/mazda-spec-mx5-thunderhill-raceway",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/mazda-spec-mx5-umc-webinar",
+			"destination": "/blog/car-racing/mazda-spec-mx5-umc-webinar",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/mazda-spec-mx5-vir-webinar",
+			"destination": "/blog/car-racing/mazda-spec-mx5-vir-webinar",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/mazda-spec-mx5-watkins-glen-webinar",
+			"destination": "/blog/car-racing/mazda-spec-mx5-watkins-glen-webinar",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/mid-ohio-approved-onboard-videos",
+			"destination": "/blog/car-racing/mid-ohio-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/mid-ohio-mazda-mx5-track-guide",
+			"destination": "/blog/car-racing/mid-ohio-mazda-mx5-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/mid-ohio-official-webinar-recording",
+			"destination": "/blog/car-racing/mid-ohio-official-webinar-recording",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/mid-ohio-the-official-track-guide",
+			"destination": "/blog/car-racing/mid-ohio-the-official-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/monticello-motor-club-approved-onboard-videos",
+			"destination": "/blog/car-racing/monticello-motor-club-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/mosport-the-official-track-guide",
+			"destination": "/blog/car-racing/mosport-the-official-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/motorcycle-braking-technique-explained-in-60-seconds",
+			"destination": "/blog/motorcycle/motorcycle-braking-technique-explained-in-60-seconds",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/motorcycle-coaching-example",
+			"destination": "/blog/motorcycle/motorcycle-coaching-example",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/motorcycle-overtaking-on-the-race-track",
+			"destination": "/blog/motorcycle/motorcycle-overtaking-on-the-race-track",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/motorcycle-race-track-guide-brands-hatch",
+			"destination": "/blog/motorcycle/motorcycle-race-track-guide-brands-hatch",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/motorcycle-race-track-guide-mugello-circuit",
+			"destination": "/blog/motorcycle/motorcycle-race-track-guide-mugello-circuit",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/motorcycle-racing-faq",
+			"destination": "/blog/motorcycle/motorcycle-racing-faq",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/motorcycle-track-guide-barber-motorsports-park",
+			"destination": "/blog/motorcycle/motorcycle-track-guide-barber-motorsports-park",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/motorcycle-track-guide-circuit-de-catalonya",
+			"destination": "/blog/motorcycle/motorcycle-track-guide-circuit-de-catalonya",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/motorcycle-ultimate-trail-braking-guide",
+			"destination": "/blog/motorcycle/motorcycle-ultimate-trail-braking-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/msr-cresson-race-track-guide",
+			"destination": "/blog/car-racing/msr-cresson-race-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/ncm-motorsports-park-approved-onboard-videos",
+			"destination": "/blog/car-racing/ncm-motorsports-park-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/ncm-motorsports-park-the-official-race-track-guide",
+			"destination": "/blog/car-racing/ncm-motorsports-park-the-official-race-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/nelson-mason-blayze-december-21-call",
+			"destination": "/blog/car-racing/nelson-mason-blayze-december-21-call",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/new-jersey-motorsports-park-thunderbolt-approved-onboard-videos",
+			"destination": "/blog/car-racing/new-jersey-motorsports-park-thunderbolt-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/new-jersey-motorsports-park-thunderbolt-track-guide",
+			"destination": "/blog/car-racing/new-jersey-motorsports-park-thunderbolt-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/nola-motorsports-park-approved-onboard-videos",
+			"destination": "/blog/car-racing/nola-motorsports-park-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/nola-motorsports-park-track-guide",
+			"destination": "/blog/car-racing/nola-motorsports-park-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/ocala-track-guide",
+			"destination": "/blog/karting/ocala-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/one-corner-analysis-sonoma-turn-7",
+			"destination": "/blog/car-racing/one-corner-analysis-sonoma-turn-7",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/one-lap-analysis-sample",
+			"destination": "/blog/car-racing/one-lap-analysis-sample",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/one-touch-passing-on-the-soccer-field",
+			"destination": "/blog/soccer/one-touch-passing-on-the-soccer-field",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/oulton-park-quick-coach-notes",
+			"destination": "/blog/motorcycle/oulton-park-quick-coach-notes",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/overlapping-and-underlapping-passes",
+			"destination": "/blog/soccer/overlapping-and-underlapping-passes",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/oversteer-course",
+			"destination": "/blog/car-racing/oversteer-course",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/oversteer-the-ultimate-guide",
+			"destination": "/blog/car-racing/oversteer-the-ultimate-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/overtaking-on-the-racetrack-what-went-right",
+			"destination": "/blog/car-racing/overtaking-on-the-racetrack-what-went-right",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/pacific-raceways-approved-onboard-videos",
+			"destination": "/blog/car-racing/pacific-raceways-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/palm-beach-international-raceway-the-official-racetrack-guide",
+			"destination": "/blog/car-racing/palm-beach-international-raceway-the-official-racetrack-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/pbir-approved-onboard-videos",
+			"destination": "/blog/car-racing/pbir-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/perfecting-the-boot-at-wgi",
+			"destination": "/blog/car-racing/perfecting-the-boot-at-wgi",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/perfecting-the-race-start",
+			"destination": "/blog/car-racing/perfecting-the-race-start",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/perfecting-turn-9-at-laguna-seca",
+			"destination": "/blog/car-racing/perfecting-turn-9-at-laguna-seca",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/pikes-peak-international-raceway-the-official-racetrack-guide",
+			"destination": "/blog/car-racing/pikes-peak-international-raceway-the-official-racetrack-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/pitt-race-the-official-racetrack-guide",
+			"destination": "/blog/car-racing/pitt-race-the-official-racetrack-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/pittrace-approved-onboard-videos",
+			"destination": "/blog/car-racing/pittrace-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/portland-international-raceway-the-official-racetrack-guide",
+			"destination": "/blog/car-racing/portland-international-raceway-the-official-racetrack-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/portland-mazda-mx5-track-guide",
+			"destination": "/blog/car-racing/portland-mazda-mx5-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/preparation",
+			"destination": "/blog/car-racing/preparation",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/proper-reference-points-on-the-race-track",
+			"destination": "/blog/motorcycle/proper-reference-points-on-the-race-track",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/race-weekened-prep",
+			"destination": "/blog/car-racing/race-weekened-prep",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/race-winner-mindset",
+			"destination": "/blog/motorcycle/race-winner-mindset",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/racecar-driver-braking-fundamentals-in-under-60-seconds",
+			"destination": "/blog/car-racing/racecar-driver-braking-fundamentals-in-under-60-seconds",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/racecraft-lessons-how-to-show-the-nose",
+			"destination": "/blog/car-racing/racecraft-lessons-how-to-show-the-nose",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/racing-in-the-rain-the-blayze-guide",
+			"destination": "/blog/car-racing/racing-in-the-rain-the-blayze-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/racing-in-the-rain-turn-ins",
+			"destination": "/blog/car-racing/racing-in-the-rain-turn-ins",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/racing-in-the-wet-explained-in-60-seconds",
+			"destination": "/blog/car-racing/racing-in-the-wet-explained-in-60-seconds",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/receiving-passing-under-pressure-newsletter",
+			"destination": "/blog/soccer/receiving-passing-under-pressure-newsletter",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/reference-points",
+			"destination": "/blog/motorcycle/reference-points",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/ricky-taylor-april-22-blayze-call",
+			"destination": "/blog/car-racing/ricky-taylor-april-22-blayze-call",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/ricky-taylor-daytona-track-guide",
+			"destination": "/blog/car-racing/ricky-taylor-daytona-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/ricky-taylor-december-21-blayze-call",
+			"destination": "/blog/car-racing/ricky-taylor-december-21-blayze-call",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/ricky-taylor-february-22-blayze-call",
+			"destination": "/blog/car-racing/ricky-taylor-february-22-blayze-call",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/ricky-taylor-january-22-blayze-call",
+			"destination": "/blog/car-racing/ricky-taylor-january-22-blayze-call",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/ricky-taylor-march-22-blayze-call",
+			"destination": "/blog/car-racing/ricky-taylor-march-22-blayze-call",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/ricky-taylor-may-22-blayze-call",
+			"destination": "/blog/car-racing/ricky-taylor-may-22-blayze-call",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/ricky-taylor-november-21-blayze-call",
+			"destination": "/blog/car-racing/ricky-taylor-november-21-blayze-call",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/ricky-taylor-october-call",
+			"destination": "/blog/car-racing/ricky-taylor-october-call",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/ricky-taylor-september-call",
+			"destination": "/blog/car-racing/ricky-taylor-september-call",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/ridge-motorsports-park-approved-onboard-videos",
+			"destination": "/blog/car-racing/ridge-motorsports-park-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/ridge-motorsports-park-motorcycle-approved-onboards",
+			"destination": "/blog/motorcycle/ridge-motorsports-park-motorcycle-approved-onboards",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/road-america-approved-onboard-videos",
+			"destination": "/blog/car-racing/road-america-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/road-america-mazda-mx5-track-guide",
+			"destination": "/blog/car-racing/road-america-mazda-mx5-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/road-america-the-official-race-track-map-guide-motorcycle",
+			"destination": "/blog/motorcycle/road-america-the-official-race-track-map-guide-motorcycle",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/road-america-the-official-racetrack-guide",
+			"destination": "/blog/car-racing/road-america-the-official-racetrack-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/road-atlanta-approved-onboard-videos",
+			"destination": "/blog/car-racing/road-atlanta-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/road-atlanta-mazda-mx5-track-guide",
+			"destination": "/blog/car-racing/road-atlanta-mazda-mx5-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/road-atlanta-the-official-track-guide",
+			"destination": "/blog/car-racing/road-atlanta-the-official-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/rockingham-speedway-road-course-the-official-racetrack-guide",
+			"destination": "/blog/car-racing/rockingham-speedway-road-course-the-official-racetrack-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/roebling-road-approved-onboard-videos",
+			"destination": "/blog/car-racing/roebling-road-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/roebling-road-mazda-mx5-track-guide",
+			"destination": "/blog/car-racing/roebling-road-mazda-mx5-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/roebling-road-the-official-racetrack-guide",
+			"destination": "/blog/car-racing/roebling-road-the-official-racetrack-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/safely-find-the-limit",
+			"destination": "/blog/car-racing/safely-find-the-limit",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/sebring-international-raceway-approved-onboard-videos",
+			"destination": "/blog/car-racing/sebring-international-raceway-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/sebring-international-raceway-the-official-racetrack-guide",
+			"destination": "/blog/car-racing/sebring-international-raceway-the-official-racetrack-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/sebring-mazda-mx5-track-guide",
+			"destination": "/blog/car-racing/sebring-mazda-mx5-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/sebring-webinar-official-recording",
+			"destination": "/blog/car-racing/sebring-webinar-official-recording",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/secret-to-better-accelerations-on-the-motorcycle",
+			"destination": "/blog/motorcycle/secret-to-better-accelerations-on-the-motorcycle",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/silverstone-quick-coach-notes",
+			"destination": "/blog/motorcycle/silverstone-quick-coach-notes",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/simraceway-kart-track-guide",
+			"destination": "/blog/karting/simraceway-kart-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/skusa-22-track-guide",
+			"destination": "/blog/karting/skusa-22-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/smooth-inputs",
+			"destination": "/blog/karting/smooth-inputs",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/smooth-is-fast",
+			"destination": "/blog/karting/smooth-is-fast",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/snetterton-quick-coach-notes",
+			"destination": "/blog/motorcycle/snetterton-quick-coach-notes",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/soccer-blayze-coaching-session-preview",
+			"destination": "/blog/soccer/soccer-blayze-coaching-session-preview",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/soccer-faq",
+			"destination": "/blog/soccer/soccer-faq",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/soccer-skills-dribbling-how-to-use-1-on-1-to-find-space",
+			"destination": "/blog/soccer/soccer-skills-dribbling-how-to-use-1-on-1-to-find-space",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/sonoma-raceway-mazda-mx5-track-guide",
+			"destination": "/blog/car-racing/sonoma-raceway-mazda-mx5-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/sonoma-raceway-motorcycle-approved-onboards",
+			"destination": "/blog/motorcycle/sonoma-raceway-motorcycle-approved-onboards",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/sonoma-raceway-official-race-track-guide-motorcycle",
+			"destination": "/blog/motorcycle/sonoma-raceway-official-race-track-guide-motorcycle",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/sonoma-raceway-the-official-racetrack-guide",
+			"destination": "/blog/car-racing/sonoma-raceway-the-official-racetrack-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/sonoma-raceway-turn-11",
+			"destination": "/blog/car-racing/sonoma-raceway-turn-11",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/speed-tips-entry-speed-corners",
+			"destination": "/blog/car-racing/speed-tips-entry-speed-corners",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/speed-tips-exit-speed-corners",
+			"destination": "/blog/car-racing/speed-tips-exit-speed-corners",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/spencer-pigot-april-22-blayze-call",
+			"destination": "/blog/car-racing/spencer-pigot-april-22-blayze-call",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/spencer-pigot-december-21-blayze-call",
+			"destination": "/blog/car-racing/spencer-pigot-december-21-blayze-call",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/spencer-pigot-january-22-blayze-call",
+			"destination": "/blog/car-racing/spencer-pigot-january-22-blayze-call",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/spencer-pigot-may-22-blayze-call",
+			"destination": "/blog/car-racing/spencer-pigot-may-22-blayze-call",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/spencer-pigot-november-blayze-call",
+			"destination": "/blog/car-racing/spencer-pigot-november-blayze-call",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/spencer-pigot-october-call",
+			"destination": "/blog/car-racing/spencer-pigot-october-call",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/spencer-pigot-september-call",
+			"destination": "/blog/car-racing/spencer-pigot-september-call",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/spring-mountain-approved-onboard-videos",
+			"destination": "/blog/car-racing/spring-mountain-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/staying-fit-for-driving",
+			"destination": "/blog/car-racing/staying-fit-for-driving",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/staying-ready-in-the-offseason",
+			"destination": "/blog/soccer/staying-ready-in-the-offseason",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/step-over",
+			"destination": "/blog/soccer/step-over",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/stop-overdriving-on-the-race-track",
+			"destination": "/blog/karting/stop-overdriving-on-the-race-track",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/strategy-from-within-the-racecar-recording",
+			"destination": "/blog/car-racing/strategy-from-within-the-racecar-recording",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/summit-point-motorsports-park-approved-onboard-videos",
+			"destination": "/blog/car-racing/summit-point-motorsports-park-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/summit-point-shenandoah-park-the-official-race-track-guide",
+			"destination": "/blog/car-racing/summit-point-shenandoah-park-the-official-race-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/summit-point-the-official-racetrack-guide",
+			"destination": "/blog/car-racing/summit-point-the-official-racetrack-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/sup-beach-start",
+			"destination": "/blog/sup/sup-beach-start",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/sup-faq",
+			"destination": "/blog/sup/sup-faq",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/switching-point-of-attack-in-soccer-games",
+			"destination": "/blog/soccer/switching-point-of-attack-in-soccer-games",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/talladega-grand-prix-the-official-racetrack-guide",
+			"destination": "/blog/car-racing/talladega-grand-prix-the-official-racetrack-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/test-day-logic-setup-first-then-speed",
+			"destination": "/blog/car-racing/test-day-logic-setup-first-then-speed",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/the-fast-line-through-laguna-secas-corkscrew",
+			"destination": "/blog/car-racing/the-fast-line-through-laguna-secas-corkscrew",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/the-fast-line-through-the-left-hander-at-lime-rock-park",
+			"destination": "/blog/car-racing/the-fast-line-through-the-left-hander-at-lime-rock-park",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/the-fast-way-to-find-the-limit-newsletter-4",
+			"destination": "/blog/car-racing/the-fast-way-to-find-the-limit-newsletter-4",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/the-last-1-barber-track-guide",
+			"destination": "/blog/motorcycle/the-last-1-barber-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/the-last-1-brainerd-raceway-track-guide",
+			"destination": "/blog/motorcycle/the-last-1-brainerd-raceway-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/the-last-1-buttonwillow-13-track-guide",
+			"destination": "/blog/motorcycle/the-last-1-buttonwillow-13-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/the-last-1-data-comparison-2",
+			"destination": "/blog/motorcycle/the-last-1-data-comparison-2",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/the-last-1-data-comparison",
+			"destination": "/blog/motorcycle/the-last-1-data-comparison",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/the-last-1-go-faster-take-less-risk",
+			"destination": "/blog/motorcycle/the-last-1-go-faster-take-less-risk",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/the-last-1-laguna-seca-track-guide",
+			"destination": "/blog/motorcycle/the-last-1-laguna-seca-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/the-last-1-njmp-thunderbolt-track-guide",
+			"destination": "/blog/motorcycle/the-last-1-njmp-thunderbolt-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/the-last-1-ridge-motorsports-park-track-guide",
+			"destination": "/blog/motorcycle/the-last-1-ridge-motorsports-park-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/the-last-1-road-america-track-guide",
+			"destination": "/blog/motorcycle/the-last-1-road-america-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/the-last-1-slow-point-of-the-corner",
+			"destination": "/blog/motorcycle/the-last-1-slow-point-of-the-corner",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/the-last-1-sonoma-raceway-track-guide",
+			"destination": "/blog/motorcycle/the-last-1-sonoma-raceway-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/the-last-1-virginia-interational-raceway-track-guide",
+			"destination": "/blog/motorcycle/the-last-1-virginia-interational-raceway-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/the-official-racecar-setup-guide",
+			"destination": "/blog/car-racing/the-official-racecar-setup-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/the-official-trail-braking-guide",
+			"destination": "/blog/car-racing/the-official-trail-braking-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/the-ridge-motorsports-park-official-race-track-guide-motorcycle",
+			"destination": "/blog/motorcycle/the-ridge-motorsports-park-official-race-track-guide-motorcycle",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/the-science-of-breathing-for-athletes",
+			"destination": "/blog/general/the-science-of-breathing-for-athletes",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/the-top-3-mistakes-at-cota",
+			"destination": "/blog/car-racing/the-top-3-mistakes-at-cota",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/the-top-3-mistakes-at-road-atlanta",
+			"destination": "/blog/car-racing/the-top-3-mistakes-at-road-atlanta",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/the-trail-braking-deep-dive-webinar-official-recording",
+			"destination": "/blog/car-racing/the-trail-braking-deep-dive-webinar-official-recording",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/the-understeer-guide",
+			"destination": "/blog/car-racing/the-understeer-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/thermal-club-approved-onboard-videos",
+			"destination": "/blog/car-racing/thermal-club-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/thermal-club-the-official-racetrack-guide",
+			"destination": "/blog/car-racing/thermal-club-the-official-racetrack-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/thompson-raceway-park-track-guide",
+			"destination": "/blog/car-racing/thompson-raceway-park-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/thunderhill-motorcycle-approved-onboards",
+			"destination": "/blog/motorcycle/thunderhill-motorcycle-approved-onboards",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/thunderhill-raceway-approved-onboard-videos",
+			"destination": "/blog/car-racing/thunderhill-raceway-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/thunderhill-raceway-the-official-race-track-guide-motorcycle",
+			"destination": "/blog/motorcycle/thunderhill-raceway-the-official-race-track-guide-motorcycle",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/thunderhill-raceway-the-official-racetrack-guide",
+			"destination": "/blog/car-racing/thunderhill-raceway-the-official-racetrack-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/thunderhill-raceway-west-the-official-racetrack-guide",
+			"destination": "/blog/car-racing/thunderhill-raceway-west-the-official-racetrack-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/timing-the-perfect-overtake",
+			"destination": "/blog/karting/timing-the-perfect-overtake",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/tips-for-street-courses",
+			"destination": "/blog/karting/tips-for-street-courses",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/top-3-mistakes-at-sebring-international-raceway",
+			"destination": "/blog/car-racing/top-3-mistakes-at-sebring-international-raceway",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/top-3-mistakes-at-virginia-international-raceway",
+			"destination": "/blog/car-racing/top-3-mistakes-at-virginia-international-raceway",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/top-drill-for-midfielders-and-attackers-in-soccer",
+			"destination": "/blog/soccer/top-drill-for-midfielders-and-attackers-in-soccer",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/top-mistakes-amateur-racecar-drivers-make-webinar",
+			"destination": "/blog/car-racing/top-mistakes-amateur-racecar-drivers-make-webinar",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/total-driver",
+			"destination": "/blog/car-racing/total-driver",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/track-guide-2021-nasa-championships",
+			"destination": "/blog/car-racing/track-guide-2021-nasa-championships",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/trailbraking-into-hairpins",
+			"destination": "/blog/car-racing/trailbraking-into-hairpins",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/turn-2-at-laguna-seca",
+			"destination": "/blog/car-racing/turn-2-at-laguna-seca",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/turn-12-at-road-atlanta",
+			"destination": "/blog/car-racing/turn-12-at-road-atlanta",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/turn-the-steering-wheel-too-far",
+			"destination": "/blog/car-racing/turn-the-steering-wheel-too-far",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/turning-feedback-into-adjustments",
+			"destination": "/blog/car-racing/turning-feedback-into-adjustments",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/umc-mazda-mx5-track-guide",
+			"destination": "/blog/car-racing/umc-mazda-mx5-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/understeer-course",
+			"destination": "/blog/car-racing/understeer-course",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/uphill-esses-and-oak-tree-at-vir",
+			"destination": "/blog/car-racing/uphill-esses-and-oak-tree-at-vir",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/using-aim-data-to-find-lap-time",
+			"destination": "/blog/car-racing/using-aim-data-to-find-lap-time",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/utah-motorsports-campus-motorcycle-approved-onboards",
+			"destination": "/blog/motorcycle/utah-motorsports-campus-motorcycle-approved-onboards",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/vision-in-soccer",
+			"destination": "/blog/soccer/vision-in-soccer",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/vision-on-the-racetrack-where-to-look-while-racing",
+			"destination": "/blog/car-racing/vision-on-the-racetrack-where-to-look-while-racing",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/vortex-of-danger-with-randy-pobst",
+			"destination": "/blog/car-racing/vortex-of-danger-with-randy-pobst",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/warming-up-your-tires",
+			"destination": "/blog/karting/warming-up-your-tires",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/weight-transfer-in-under-60-seconds",
+			"destination": "/blog/car-racing/weight-transfer-in-under-60-seconds",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/what-drivers-say-about-blayze",
+			"destination": "/blog/car-racing/what-drivers-say-about-blayze",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/what-every-soccer-players-needs-to-know-when-crossing-into-the-box",
+			"destination": "/blog/soccer/what-every-soccer-players-needs-to-know-when-crossing-into-the-box",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/what-is-rev-matching",
+			"destination": "/blog/car-racing/what-is-rev-matching",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/what-is-understeer-and-how-to-correct-it",
+			"destination": "/blog/car-racing/what-is-understeer-and-how-to-correct-it",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/what-is-virtual-coaching",
+			"destination": "/blog/car-racing/what-is-virtual-coaching",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/when-to-blip",
+			"destination": "/blog/car-racing/when-to-blip",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/when-to-sacrifice-on-the-racetrack",
+			"destination": "/blog/car-racing/when-to-sacrifice-on-the-racetrack",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/why-am-i-faster-when-chasing-someone-newsletter-6",
+			"destination": "/blog/car-racing/why-am-i-faster-when-chasing-someone-newsletter-6",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/why-am-i-lost-in-a-corner",
+			"destination": "/blog/car-racing/why-am-i-lost-in-a-corner",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/why-performance-analysis-is-for-you",
+			"destination": "/blog/general/why-performance-analysis-is-for-you",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/cadwell-park-quick-coach-notes",
+			"destination": "/blog/car-racing/cadwell-park-quick-coach-notes",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/lime-rock-park-approved-onboard-videos",
+			"destination": "/blog/car-racing/lime-rock-park-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/motorcycle-race-coaching-announcement",
+			"destination": "/blog/car-racing/motorcycle-race-coaching-announcement",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/nasa-partnership-annoucement",
+			"destination": "/blog/car-racing/nasa-partnership-annoucement",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/new-jersey-motorsports-park-lightning-approved-onboard-videos",
+			"destination": "/blog/car-racing/new-jersey-motorsports-park-lightning-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/over-slowing-on-the-racetrack",
+			"destination": "/blog/car-racing/over-slowing-on-the-racetrack",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/palm-beach-international-raceway-race-track-guide",
+			"destination": "/blog/car-racing/palm-beach-international-raceway-race-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/putnam-park-approved-onboard-videos",
+			"destination": "/blog/car-racing/putnam-park-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/road-america-motorcycle-approved-onboards",
+			"destination": "/blog/car-racing/road-america-motorcycle-approved-onboards",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/setting-up-your-first-blayze-coaching-session",
+			"destination": "/blog/car-racing/setting-up-your-first-blayze-coaching-session",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/sonoma-raceway-approved-onboard-videos",
+			"destination": "/blog/car-racing/sonoma-raceway-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/the-rule-every-race-series-needs",
+			"destination": "/blog/car-racing/the-rule-every-race-series-needs",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/using-data-to-study-trail-braking",
+			"destination": "/blog/car-racing/using-data-to-study-trail-braking",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/using-sim-racing-to-improve-real-life-racing",
+			"destination": "/blog/car-racing/using-sim-racing-to-improve-real-life-racing",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/utah-motorsports-campus-approved-onboard-videos",
+			"destination": "/blog/car-racing/utah-motorsports-campus-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/utah-motorsports-campus-the-official-racetrack-guide",
+			"destination": "/blog/car-racing/utah-motorsports-campus-the-official-racetrack-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/vir-mazda-mx5-track-guide",
+			"destination": "/blog/car-racing/vir-mazda-mx5-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/vir-partiots-course-the-official-racetrack-guide",
+			"destination": "/blog/car-racing/vir-partiots-course-the-official-racetrack-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/vir-track-guide-webinar",
+			"destination": "/blog/car-racing/vir-track-guide-webinar",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/vir-track-guide-with-mike-skeen",
+			"destination": "/blog/car-racing/vir-track-guide-with-mike-skeen",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/virginia-international-raceway-approved-onboard-videos",
+			"destination": "/blog/car-racing/virginia-international-raceway-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/virginia-international-raceway-the-official-racetrack-guide",
+			"destination": "/blog/car-racing/virginia-international-raceway-the-official-racetrack-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/vision-on-the-racetrack",
+			"destination": "/blog/car-racing/vision-on-the-racetrack",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/volleys-and-half-volleys-soccer-analysis",
+			"destination": "/blog/car-racing/volleys-and-half-volleys-soccer-analysis",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/watkins-glen-international-raceway-approved-onboard-videos",
+			"destination": "/blog/car-racing/watkins-glen-international-raceway-approved-onboard-videos",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/watkins-glen-international-raceway-the-official-racetrack-guide",
+			"destination": "/blog/car-racing/watkins-glen-international-raceway-the-official-racetrack-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/when-to-downshift",
+			"destination": "/blog/car-racing/when-to-downshift",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/why-is-trail-braking-fast",
+			"destination": "/blog/car-racing/why-is-trail-braking-fast",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/why-you-cant-open-your-hands-at-corner-exit",
+			"destination": "/blog/car-racing/why-you-cant-open-your-hands-at-corner-exit",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/why-you-need-a-routine-for-peak-performance-on-the-race-track",
+			"destination": "/blog/car-racing/why-you-need-a-routine-for-peak-performance-on-the-race-track",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/willow-springs-international-raceway-race-track-guide",
+			"destination": "/blog/car-racing/willow-springs-international-raceway-race-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/willow-springs-mazda-mx5-track-guide",
+			"destination": "/blog/car-racing/willow-springs-mazda-mx5-track-guide",
+			"statusCode": 301
+		},
+		{
+			"source": "/blog/private-soccer-coaching-options-for-parents",
+			"destination": "/blog/soccer/private-soccer-coaching-options-for-parents",
+			"statusCode": 301
+		},
+		{
+			"source": "/education/soccer-blayze-coaching-session-preview",
+			"destination": "/blog/soccer/soccer-blayze-coaching-session-preview",
+			"statusCode": 301
+		}
+	]
+}

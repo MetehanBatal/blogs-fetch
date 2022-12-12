@@ -1,0 +1,50 @@
+---
+layout: blog
+
+title: Circuit Of The Americas Approved Onboard Videos
+author: Dion von Moltke
+date: "2019-11-10"
+
+featured_image: /images/blogs/car-racing/COTA-Approved-Onboard-Videos-compressor.jpg
+
+excerpt: Racing at Circuit Of The Americas soon?  Blayze coaches found videos they approve of watching to study for this race track!
+
+meta_title: Racing at Circuit Of The Americas soon?  Blayze coaches found videos they approve of watching to study for this race track!
+meta_description: Racing at Circuit Of The Americas soon?  Blayze coaches found videos they approve of watching to study for this race track!
+
+slug: circuit-of-the-americas-approved-onboard-videos
+
+sport:
+  - car racing
+
+content_type: Guides
+
+category:
+  - Onboard Videos
+  - North America
+
+isPremium: true
+---
+
+### How to use onboard videos to study for a race track
+
+Onboard videos are the best way to study for upcoming events at a specific track. To take advantage of studying ahead of time put less emphasis on finding exact braking zones in these videos, focus more on the overall line, initial throttle application spot, and where the driver attacks a specific corner or sacrifices a specific corner on the race track!
+
+<iframe title="Blog iFrame" width="560" height="315" src="https://www.youtube.com/embed/3Y4D0r6Ll24" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Ferrari 458 Challenge
+
+<iframe title="Blog iFrame" width="560" height="315" src="https://www.youtube.com/embed/zOpzwwdQKBQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Porsche GT3 Cup Car (Wet Conditions)
+
+<iframe title="Blog iFrame" width="560" height="315" src="https://www.youtube.com/embed/xePee-MOYJU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Porsche 997
+
+<iframe title="Blog iFrame" width="560" height="315" src="https://www.youtube.com/embed/hoD367ptqkI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Lamborghini GT3
+
+<iframe title="Blog iFrame" width="560" height="315" src="https://www.youtube.com/embed/PPX8f9DK5A8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Nissan 370Z
+
+### Have A Video You Would Like To Submit?
+
+At Blayze we are always looking for videos we can use to help others learn a track and improve. If you feel like you have a lap that is well executed at any race track that others could benefit from please email it to us at team@blayze.io and if our coaches like what they see we will add it to our approved onboard videos!

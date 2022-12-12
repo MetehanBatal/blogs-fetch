@@ -1,0 +1,234 @@
+
+
+/* <Content> */
+
+.blog-content {
+	display: flex;
+	flex-direction: column;
+}
+
+.blog-content h2 {
+	width: fit-content;
+
+	font-size: 2.4rem;
+	font-weight: 500;
+	/*color: var(--gray-color);*/
+
+	margin-top: 4rem;
+	margin-bottom: 1.6rem;
+	/*padding-bottom: .8rem;*/
+
+	/*border-bottom: .1rem solid var(--light-gray-color);*/
+}
+
+.blog-content h3 {
+	font-size: 2rem;
+	color: var(--gray-color);
+
+	margin: 2.4rem 0 1.2rem;
+}
+
+.blog-content p,
+.blog-content div {
+	font-size: 2rem;
+	line-height: 1.5;
+	color: var(--gray-color);
+
+	margin-bottom: 1.2rem;
+}
+
+.blog-content div > br {
+	display: none;
+}
+
+.blog-content p:first-of-type img {
+	margin-top: 0;
+}
+
+.blog-content p em {
+	display: block;
+	
+	font-size: 1.4rem;
+	font-style: normal;
+
+	margin-top: -4rem;
+	margin-bottom: 4rem;
+}
+/*
+.blog-content p strong {
+	display: block;
+
+	margin-top: 3.6rem;
+}*/
+
+.blog-content video,
+.blog-content iframe {
+	max-width: 100%;
+		width: 100%;
+
+	border-radius: 2.4rem;
+	box-shadow: 0 0.4rem 0.8rem rgb(117 117 117 / 15%);
+
+	margin: 4.8rem 0;
+}
+
+.blog-content ol {
+	margin-bottom: 2rem;
+}
+
+.blog-content .mux-video {
+	max-height: 80rem;
+	background-color: #000;
+}
+
+.blog-content .mux-video.mt-sm {
+	margin-top: .8rem;
+}
+
+.blog-content iframe {
+	height: 60rem;
+}
+
+.blog-content ul {
+	margin: 1rem;
+}
+
+.blog-content ol {
+	padding-left: 2.2rem;
+}
+
+.blog-content ol li {
+	list-style-type: inherit;
+	padding-left: 0;
+}
+
+.blog-content ol li:before {
+	display: none;
+}
+
+.blog-content li {
+	position: relative;
+
+	font-size: 2rem;
+	color: var(--gray-color);
+
+	padding-left: 1.6rem;
+	margin-top: 1rem;
+}
+
+.blog-content li:before {
+	position: absolute;
+	top: .8rem;
+	left: 0;
+
+	content: '';
+
+	width: .8rem;
+	height: .8rem;
+
+	border-radius: 100%;
+	background-color: var(--gray-color);
+}
+
+.blog-content li li:before {
+	width: 1.2rem;
+	left: -.6rem;
+
+	border-radius: 4.8rem;
+	background-color: var(--gold-color);
+}
+
+.lesson-description li {
+	list-style-type: initial;
+
+	margin-top: .4rem;
+}
+
+.lesson-description li::marker {
+	margin-right: .8rem;
+}
+
+.blog-content img {
+	width: 100%;
+
+	border-radius: 2.4rem;
+	box-shadow: 0 0.4rem 0.8rem rgb(117 117 117 / 15%);
+	margin: 4.8rem 0;
+}
+
+.blog-content .width-sm {
+	width: 60%;
+
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.blog-content img.play-icon {
+	margin: 0;
+}
+
+.blog-content a {
+	color: #1565C0;
+	text-decoration: underline;
+}
+
+/* </Content> */
+
+/*****************/
+
+/* <Components> */
+
+.blog-cta {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.blog-cta h2 {
+	border-bottom: 0;
+}
+
+.blog-cta a {
+	max-width: 36rem;
+		width: 100%;
+}
+
+.blog-content #previewsample {
+	padding: 0;
+}
+
+.blog-content #previewsample img {
+	margin: 0;
+}
+
+._form_11,
+._form_17 {
+	padding-bottom: 4rem;
+	margin-bottom: 4rem;
+
+	border-bottom: .1rem solid var(--light-gray-color);
+}
+
+/* </Components> */
+
+.blog-content .grid-1_1 {
+	display: grid;
+	grid-template-columns: 1fr;
+}
+
+.blog-content .grid-1_1 video {
+	margin-top: 0;
+}
+
+.blog-content .grid-1_1 strong {
+	font-size: 1.8rem;
+}
+
+
+@media screen and (min-width: 768px) {
+	.blog-content .grid-1_1 {
+		grid-template-columns: 1fr 1fr;
+		grid-gap: 6rem;
+	}
+
+}
